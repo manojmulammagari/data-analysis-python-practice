@@ -21,7 +21,7 @@ Python scripts and Google Colab notebooks for practicing data analysis and visua
 ## 💡 Topics Covered
 
 - Data cleaning (handling nulls, duplicates)
-- Plotting with matplotlib/seaborn
+- Plotting with matplotlib
 - Basic statistics
 - GroupBy, aggregation
 
