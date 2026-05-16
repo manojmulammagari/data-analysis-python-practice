@@ -1,6 +1,6 @@
 # Data Analysis Python Practice
 
-Python scripts and Google Colab notebooks for practicing data analysis and visualization.
+Python scripts and Google Colab notebooks for practicing data analysis and visualization. 
 
 ## 📁 Contents
 
